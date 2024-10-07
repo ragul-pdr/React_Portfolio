@@ -19,7 +19,7 @@ export default function Projects() {
         image: p3,
         description:
           "Gym website for my relative. Built with Bootstrap 5 & Angular.js with MySQL Database.",
-        link: "https://github.com/ragul-pdr",
+        link: "https://github.com/ragul-pdr/gym-site",
       },
     ],
   };
